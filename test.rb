@@ -1,2 +1,1 @@
-puts "Hello World..."
-puts "My name is Erik"
+puts "I was created only to test some feature, really?"
